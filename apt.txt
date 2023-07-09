@@ -1,0 +1,5 @@
+git make curl
+ocaml opam
+g++ gdb cmake qt5-default
+flex bison ragel libreadline-dev
+code meld doxygen clang-format
